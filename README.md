@@ -24,8 +24,8 @@ La interfaz es minimalista y responsive, inspirada en un estilo retro-industrial
 
 1. **Clona este repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/trastero-app.git
-   cd trastero-app
+   git clone https://github.com/tu-usuario/TrasteroApp.git
+   cd TrasteroApp
    ```
 
 2. **Instala dependencias**  
